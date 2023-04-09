@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/search-menu/static/css/main.17b691eb.css",
+    "main.js": "/search-menu/static/js/main.6da466cc.js",
+    "static/js/787.6392039c.chunk.js": "/search-menu/static/js/787.6392039c.chunk.js",
+    "static/media/lord-of-the-rings.jpeg": "/search-menu/static/media/lord-of-the-rings.fe8b6c1a35b02df3a700.jpeg",
+    "static/media/pulp-fiction.jpeg": "/search-menu/static/media/pulp-fiction.805329183f60b440a655.jpeg",
+    "static/media/dark-knight.jpeg": "/search-menu/static/media/dark-knight.6b34d6a97a12654d2996.jpeg",
+    "static/media/matrix.jpeg": "/search-menu/static/media/matrix.ee8c8ebf5541556a3988.jpeg",
+    "static/media/nacho-libre.jpeg": "/search-menu/static/media/nacho-libre.05c053f3cd102a16d4fc.jpeg",
+    "static/media/godfather.jpeg": "/search-menu/static/media/godfather.e4fced091c18ba2954f4.jpeg",
+    "static/media/fight-club.jpeg": "/search-menu/static/media/fight-club.116cbec5fd2e27a61efc.jpeg",
+    "index.html": "/search-menu/index.html",
+    "main.17b691eb.css.map": "/search-menu/static/css/main.17b691eb.css.map",
+    "main.6da466cc.js.map": "/search-menu/static/js/main.6da466cc.js.map",
+    "787.6392039c.chunk.js.map": "/search-menu/static/js/787.6392039c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17b691eb.css",
+    "static/js/main.6da466cc.js"
+  ]
+}
